@@ -33,9 +33,9 @@ The full codebase (preprocessing, models, and evaluation scripts) will be made p
 
 For research collaborations or early access requests:
 
-- **Name**: [Imran Khan]  
-- **Email**: [imran7535@gmail.com]  
-- **Google Scholar / LinkedIn**: [https://www.linkedin.com/in/imran-khan-alig/]
+- **Name**: Imran Khan 
+- **Email**: imran7535@gmail.com  
+- **Google Scholar / LinkedIn**: https://www.linkedin.com/in/imran-khan-alig/
 
 ---
 
